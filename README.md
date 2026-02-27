@@ -17,3 +17,5 @@ You instead just locally host the application, and get sent a random cat image. 
 - Challenges: I didn’t want to return the whole array of the API (things like id, width, height). I’m still pretty new to this stuff so I didn’t know how to return the URL only. Eventually I found out how to target the object within the array, and then target the URL string. 
 
 ### Functionality Example:  
+![alt text](https://github.com/amdemw206-coder/ThirdPartyAPI_AD311/blob/main/Screenshots/terminal.PNG)
+- URL: https://cdn2.thecatapi.com/images/9kk.jpg 
